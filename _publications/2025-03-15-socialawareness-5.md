@@ -1,7 +1,6 @@
 ---
 title: "Social Engineering"
 collection: publications
-category: conferences
 permalink: /publication/2025-03-15-socialawareness-5
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-03-15
