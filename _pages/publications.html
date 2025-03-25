@@ -45,18 +45,15 @@ author_profile: true
 <!--testing purpose-->
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "publication"
+permalink: /publication/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-<!-- Show all publications without category -->
-{% for post in site.publications reversed %}
+
+{% for post in site.publication %}
   {% include archive-single.html %}
 {% endfor %}
+
