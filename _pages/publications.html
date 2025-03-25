@@ -44,16 +44,18 @@ author_profile: true
 
 <!--testing purpose-->
 ---
+---
 layout: archive
-title: "publication"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
 {% include base_path %}
 
-
-{% for post in site.publications %}
+<!-- Show all publications sorted by date (latest first) -->
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
 
