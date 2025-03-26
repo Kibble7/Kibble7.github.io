@@ -1,0 +1,55 @@
+---
+title: "How To Fix Booting issue in Vmware"
+date: 2020-03-25
+permalink: /projects/2020-03-15-socialawareness
+tags:
+  - Tech Post
+  - technology
+  - Virtual Machine
+  - Vmware
+---
+# post 25-may-2020
+Boot issues in VMware Workstation Pro can be frustrating, especially if you need to get your virtual machine up and running quickly. Whether it's a failure to boot, a stuck loading screen, or a specific error message, this guide will walk you through some of the common solutions to fix booting issues in VMware.
+
+# VMware Virtual Machine Setup: Windows Installation
+
+Follow these steps to begin the Windows installation process in VMware.
+
+### Step 1: Power Off the Virtual Machine
+🔲 **Go to the power on/off virtual machine button.**
+
+### Step 2: Shutdown the Guest
+🖥️ **Select the 'Shutdown Guest' option.**
+
+### Step 3: Access Virtual Machine Settings
+⚙️ **At that moment, you are in the VMware virtual machine interface. Select 'Edit Virtual Machine Settings'.**
+
+### Step 4: Choose the Options Tab
+🔧 **Choose the 'Options' tab from the Virtual Machine Settings.**
+
+### Step 5: Click on Advanced Option
+🔍 **Click on the 'Advanced' option.**
+
+### Step 6: Select BIOS Option
+🖱️ **Select the 'BIOS' radio button and press 'OK'.**
+
+### Step 7: Power On the Virtual Machine
+🔋 **Click the 'Power On this Virtual Machine' option.**
+
+---
+
+The Windows installation process should now begin.
+
+If you're still unsure about the steps or would like to see a visual walkthrough, check out this helpful video on YouTube:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2Lc0zyUO3A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+### Alternative: Oracle VirtualBox for Virtual Machines
+
+If you're still encountering issues with VMware or simply prefer an alternative, you might want to consider **Oracle VirtualBox**. It's a free, open-source virtualization tool that provides similar functionality to VMware. VirtualBox is widely used for creating and managing virtual machines, and it supports a variety of operating systems. 
+
+You can download Oracle VirtualBox from its [official website](https://www.virtualbox.org/). It’s a great option if you need to run virtual machines without the licensing restrictions VMware might have.
+
+---
