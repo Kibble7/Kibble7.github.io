@@ -33,5 +33,6 @@ redirect_from:
 {% include base_path %}
 
 {% for post in site.projects %}
-  {% include archive-single.html %}
+  <h2>{{ post.title }}</h2>
+  <p>{{ post.date }}</p>
 {% endfor %}
