@@ -1,7 +1,7 @@
 ---
 title: "How To Fix Booting issue in Vmware"
 date: 2020-03-25
-permalink: /projects/2020-03-15-socialawareness
+permalink: /projects/2012/08/socialawareness/
 tags:
   - Tech Post
   - technology
