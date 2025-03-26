@@ -2,10 +2,6 @@
 title: "Security Awareness - Kids & Senior"
 date: 2025-03-15
 permalink: /projects/2025/03/socialawareness/
-tags:
-  - Social Engineering Awareness 
-  - Kids & Senior
-  - Socail Engineering Attacks
   
 ---
 

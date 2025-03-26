@@ -2,10 +2,7 @@
 title: "Cyber Social Defend"
 date: 2025-01-15
 permalink: /projects/2025/01/cybersocialdefend/
-tags:
-  - Social Engineering Awareness 
-  - Kids & Senior
-  - Socail Engineering Attacks
+
 ---
 
 A research-driven platform dedicated to **cybersecurity awareness and education**. This project is purely **educational and non-commercial**, focusing on:
@@ -15,4 +12,6 @@ A research-driven platform dedicated to **cybersecurity awareness and education*
 ✅ **Best Security Practices** – Securing devices, accounts, and identities using strong passwords, multi-factor authentication (MFA), and safe browsing habits.  
 ✅ **Understanding the Hacker’s Mindset** – How attackers choose their targets, the tools like OSINT to gather information, and their delivery methods using phishing, vishing, and other social engineering techniques."
 
-<a href="https://www.cybersocialdefend.com" class="btn">Read Full Project- Cybersocialdefend</a>
+**visit project**
+[Security Awareness -Single Dashboard](https://cybersocialdefend.com/)
+
