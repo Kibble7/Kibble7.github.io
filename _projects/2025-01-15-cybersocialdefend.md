@@ -12,5 +12,5 @@ A research-driven platform dedicated to **cybersecurity awareness and education*
 ✅ **Best Security Practices** – Securing devices, accounts, and identities using strong passwords, multi-factor authentication (MFA), and safe browsing habits.  
 ✅ **Understanding the Hacker’s Mindset** – How attackers choose their targets, the tools like OSINT to gather information, and their delivery methods using phishing, vishing, and other social engineering techniques."
 
-**visit project**
+**more details about project**
 [Security Awareness -Single Dashboard](https://cybersocialdefend.com/)
