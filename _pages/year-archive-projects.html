@@ -1,3 +1,5 @@
+
+<!--
 ---
 layout: archive
 permalink: /year-archive-projects/
@@ -15,5 +17,21 @@ redirect_from:
     <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
+  {% include archive-single.html %}
+{% endfor %}
+-->
+
+---
+layout: archive
+permalink: /year-archive-projects/
+title: "Projects"
+author_profile: true
+redirect_from:
+  - /wordpress/blog-posts/
+---
+
+{% include base_path %}
+
+{% for post in site.projects %}
   {% include archive-single.html %}
 {% endfor %}
