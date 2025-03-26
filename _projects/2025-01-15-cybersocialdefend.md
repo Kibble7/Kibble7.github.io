@@ -8,7 +8,7 @@ tags:
 ---
 
 A research-driven platform dedicated to **cybersecurity awareness and education**. This project is purely **educational and non-commercial**, focusing on:
-<!--more-->
+
 ✅ **Social Engineering Attacks** – Understanding phishing, pretexting, baiting, tailgating, and other manipulation techniques.  
 ✅ **Cybersecurity Awareness** – Identifying and preventing scams, malware, and unauthorized access.  
 ✅ **Best Security Practices** – Securing devices, accounts, and identities using strong passwords, multi-factor authentication (MFA), and safe browsing habits.  
