@@ -2,7 +2,9 @@
 title: "Cyber Social Defend"
 date: 2025-01-15
 permalink: /projects/2025/01/cybersocialdefend/
-
+tags:
+  - Awareness 
+  - cybersecurity
 ---
 
 A research-driven platform dedicated to **cybersecurity awareness and education**. This project is purely **educational and non-commercial**, focusing on:
