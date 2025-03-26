@@ -14,4 +14,3 @@ A research-driven platform dedicated to **cybersecurity awareness and education*
 
 **visit project**
 [Security Awareness -Single Dashboard](https://cybersocialdefend.com/)
-
