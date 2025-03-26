@@ -1,7 +1,7 @@
 ---
 title: "Security Awareness - Kids & Senior"
-date: 2020-03-25
-permalink: /projects/2012/08/socialawareness/
+date: 2020-03-15
+permalink: /projects/2020/03/socialawareness/
 tags:
   - Tech Post
   - technology
