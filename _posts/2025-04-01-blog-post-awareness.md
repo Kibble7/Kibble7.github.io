@@ -1,5 +1,5 @@
 ---
-title: 'Future Blog Post'
+title: 'Social Engineering'
 date: 2025-04-01
 permalink: /posts/2025/04/blog-post-awareness/
 tags:
@@ -7,7 +7,10 @@ tags:
   - Cybersecurity 
 ---
 
-# Social Engineering Awareness Booklet in PDF Format  
+"Knowledge is your first line of defense—learn, adapt, stay alert, stay secure!"
+Cybercriminals are always finding new ways to bypass security, and one of the most effective methods they use is social engineering—tricking people into giving up their information. 
+
+Phishing emails, fake messages, and deceptive links are common tactics. The best defense? A zero-trust mindset. Always verify before trusting, avoid suspicious links, and stay alert. Security systems help, but human awareness is the strongest layer of protection. 
 
 <p style="font-size: 18px; color: #333; line-height: 1.6;">
 <b>Social engineering</b> is when someone tricks you into giving away personal information or doing something you shouldn’t. They might pretend to be someone you trust, like a friend or company.
