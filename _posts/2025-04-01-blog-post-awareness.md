@@ -1,7 +1,7 @@
 ---
 title: 'Future Blog Post'
 date: 2025-04-01
-permalink: /posts/2025/04/awareness/
+permalink: /posts/2025/04/blog-post-awareness/
 tags:
   - social Engineering  Awareness
   - Cybersecurity 
