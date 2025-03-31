@@ -25,31 +25,30 @@ redirect_from:
 <!-- End of whoami section with animation -->
 
 
-# 🚀 Cybersecurity Enthusiast | Tech Explorer | Lifelong Learner 
+# 💻 Cybersecurity Enthusiast | Tech Explorer | Lifelong Learner 
 
-I’m a **cybersecurity enthusiast** constantly learning, dedicated, and a hard worker, exploring new areas of technology! 🌐 I’m diving deep into the world of **cybersecurity**, **networking**, **system administration**, **Linux**, **Python**, **cloud**, and **AI** – building and enhancing my skills every day. 🚀  
+I’m a **cybersecurity enthusiast** constantly learning, dedicated, and a hard worker, exploring new areas of technology! 🌐 I’m diving deep into the world of **cybersecurity**, **networking**, **system administration**, **Linux**, **Python**, **cloud**, and **AI** – building and enhancing my skills every day. 🛠️ 
 
 > As **Steve Jobs** wisely said:  
 > *“Learn continually—there’s always ‘one more thing’ to learn!”*  
 
 ---
 
-### 🎯 **Skills – Adding One More Thing Continuously**  
+## 🎯 **Skills – Adding One More Thing Continuously**  
 
-#### 🔐 **Cybersecurity** 
+### 🔐 **Cybersecurity** 
 | Vulnerability Assessment | Threat Detection & Analysis | Network Architecture Security | Threat Intelligence & Hunting | Incident Response & Management | Security Awareness Training |
 
-#### 🛠️ **Cybersecurity Tools**  
-| Nmap | Wireshark | Kibana | Sguil | Wazuh | SIEM | Splunk |  
-| Snort | Suricata | Greenbone | Nessus | SEToolKit | OSINT |  
+### ⚔️ **Cybersecurity Tools**  
+| Nmap | Wireshark | Kibana | Sguil | Wazuh | SIEM | Splunk | Snort | Suricata | Greenbone | Nessus | SEToolKit | OSINT |  
 
-#### 🌐 **Networking**  
+### 🌐 **Networking**  
 | TCP/IP | VLAN | STP | EtherChannel | DNS | DHCP | NAT/PAT | OSPF | ACLs | IDS/IPS | VPN |  
 
-#### 🖥️ **System Administration**  
+### 🖥️ **System Administration**  
 | Active Directory (AD) | AD DS | Patch Management | Linux Administration| Backup & Recovery | Microsoft 365 | Entra ID | Intune |  
 
-#### ☁️ **Cloud Technologies**  
+### ☁️ **Cloud Technologies**  
 | **Azure:** VNet | NSG | Resource Group | VMs & Containers |  
 | **AWS:** VPC | VMs & Containers |  
 
@@ -67,7 +66,7 @@ Beyond tech, I love hiking 🥾 and exploring nature 🌲. Spending time with do
 
 ---
 
-## Projects
+## 📖 Projects ⚙️
 
 ### 🔒 Phishing Simulation
 **phishing simulation project** to help organizations improve their ### 🔒 Phishing Simulation Project
