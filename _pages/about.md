@@ -36,7 +36,11 @@ I’m a **cybersecurity enthusiast** constantly learning, dedicated, and a hard 
 
 ## 🎯 **Skills – Adding One More Thing Continuously**  
 
- 🔐 **Cybersecurity** :- | Vulnerability Assessment | Threat Detection & Analysis | Network Architecture Security | Threat Intelligence & Hunting | Incident Response & Management | Security Awareness Training |
+### 🔐 **Cybersecurity** :- 
+| Vulnerability Assessment | Threat Detection & Analysis | Network Architecture Security | Threat Intelligence & Hunting | Incident Response & Management | Security Awareness Training |
+
+### 🔐 **Cybersecurity**: *Vulnerability Assessment* | *Threat Detection & Analysis* | *Network Architecture Security* | *Threat Intelligence & Hunting* | *Incident Response & Management* | *Security Awareness Training*
+
 
 ### ⚔️ **Cybersecurity Tools**  
 | Nmap | Wireshark | Kibana | Sguil | Wazuh | SIEM | Splunk | Snort | Suricata | Greenbone | Nessus | SEToolKit | OSINT |  
@@ -48,10 +52,10 @@ I’m a **cybersecurity enthusiast** constantly learning, dedicated, and a hard 
 | Active Directory (AD) | AD DS | Patch Management | Linux Administration| Backup & Recovery | Microsoft 365 | Entra ID | Intune |  
 
 ### ☁️ **Cloud Technologies**  
-| **Azure:** VNet | NSG | Resource Group | VMs & Containers |  
-| **AWS:** VPC | VMs & Containers |  
+| **Azure:** | VNet | NSG | Resource Group | VMs & Containers |  
+| **AWS:** | VPC | VMs & Containers |  
 
-#### 🧩 **Miscellaneous**  
+### 🧩 **Miscellaneous**  
 | Python | Hardware & Support – Apple, Android, & Windows PCs | WordPress | PHP | HTML & CSS | Video Editing – PowerDirector, Camtasia | Image Editing – Photoshop, Canva | AI – Learning & Exploring | GitHub |  
 
 ---
