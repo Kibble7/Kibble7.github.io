@@ -57,19 +57,20 @@ Active Directory (AD) | AD DS | Patch Management | Linux Administration| Backup 
 
 
 
- **🔐Cybersecurity**:- Vulnerability Assessment | Threat Detection & Analysis | Network Architecture Security | Threat Intelligence & Hunting | Incident Response & Management | Security Awareness Training 
+ **🔐Cybersecurity**:- Vulnerability Assessment, Threat Detection & Analysis, Network Architecture Security, Threat Intelligence & Hunting, Incident Response & Management, Security Awareness Training  
 
- **⚔️Cybersecurity Tools**:- Nmap | Wireshark | Kibana | Sguil | Wazuh | SIEM | Splunk | Snort | Suricata | Greenbone | Nessus | SEToolKit | OSINT  
+**⚔️Cybersecurity Tools**:- Nmap, Wireshark, Kibana, Sguil, Wazuh, SIEM, Splunk, Snort, Suricata, Greenbone, Nessus, SEToolKit, OSINT  
 
- **🌐Networking**:- TCP/IP | VLAN | STP | EtherChannel | DNS | DHCP | NAT/PAT | OSPF | ACLs | IDS/IPS | VPN  
+**🌐Networking**:- TCP/IP, VLAN, STP, EtherChannel, DNS, DHCP, NAT/PAT, OSPF, ACLs, IDS/IPS, VPN  
 
-**🖥️System Administration**:-Active Directory (AD) | AD DS | Patch Management | Linux Administration| Backup & Recovery | Microsoft 365 | Entra ID | Intune 
+**🖥️System Administration**:- Active Directory (AD), AD DS, Patch Management, Linux Administration, Backup & Recovery, Microsoft 365, Entra ID, Intune  
 
 **☁️Cloud Technologies**  
-- **Azure:** VNet | NSG | Resource Group | VMs & Containers |  
-- **AWS:**  VPC | VMs & Containers  
+- **Azure:** VNet, NSG, Resource Group, VMs & Containers  
+- **AWS:** VPC, VMs & Containers  
 
-**🧩Miscellaneous**:- Python | Hardware & Support – Apple, Android, & Windows PCs | WordPress | PHP | HTML & CSS | Video Editing – PowerDirector, Camtasia | Image Editing – Photoshop, Canva | AI – Learning & Exploring | GitHub   
+**🧩Miscellaneous**:- Python, Hardware & Support – Apple, Android, & Windows PCs, WordPress, PHP, HTML & CSS, Video Editing – PowerDirector, Camtasia, Image Editing – Photoshop, Canva, AI – Learning & Exploring, GitHub
+
 
 ---
 
