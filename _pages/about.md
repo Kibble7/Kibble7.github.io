@@ -12,6 +12,12 @@ redirect_from:
     <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kibble7.Kibble7"/>
 </div>
 
+<!--Quote-->
+<div style="color: #1877F2; font-size: 18px; font-family: Arial, sans-serif;">
+    "Here is only one corner of the universe you can be certain of improving, and that's your own self." – Aldous Huxley
+</div>
+
+
 <!-- dog hi image -->
 <div align="center">
   <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" style="border-radius: 80%; width: 250px; height: 100px;" />
