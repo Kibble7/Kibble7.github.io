@@ -24,13 +24,46 @@ redirect_from:
 </h1>
 <!-- End of whoami section with animation -->
 
-I am a **cybersecurity enthusiast** with a passion for technology, including **cybersecurity**, **networking**, **system administration**, **Linux**, **Python**, **web development**, **DevOps**, **cloud**, **AI**, and building projects on **GitHub**. I enjoy deep diving into technology research, collecting information, and documenting my findings through journaling and writing.
 
-Beyond tech, I love:
-- **Hiking** 🥾
-- Exploring **nature** 🌲
-- Spending time with **dogs** 🐕‍🦺
-- Appreciating **mountains** 🏔️ and **trees** 🌳
+# 🚀 Cybersecurity Enthusiast | Tech Explorer | Lifelong Learner 
+
+I’m a **cybersecurity enthusiast** constantly learning, dedicated, and a hard worker, exploring new areas of technology! 🌐 I’m diving deep into the world of **cybersecurity**, **networking**, **system administration**, **Linux**, **Python**, **cloud**, and **AI** – building and enhancing my skills every day. 🚀  
+
+> As **Steve Jobs** wisely said:  
+> *“Learn continually—there’s always ‘one more thing’ to learn!”*  
+
+---
+
+### 🎯 **Skills – Adding One More Thing Continuously**  
+
+#### 🔐 **Cybersecurity** 
+| Vulnerability Assessment | Threat Detection & Analysis | Network Architecture Security | Threat Intelligence & Hunting | Incident Response & Management | Security Awareness Training |
+
+#### 🛠️ **Cybersecurity Tools**  
+| Nmap | Wireshark | Kibana | Sguil | Wazuh | SIEM | Splunk |  
+| Snort | Suricata | Greenbone | Nessus | SEToolKit | OSINT |  
+
+#### 🌐 **Networking**  
+| TCP/IP | VLAN | STP | EtherChannel | DNS | DHCP | NAT/PAT | OSPF | ACLs | IDS/IPS | VPN |  
+
+#### 🖥️ **System Administration**  
+| Active Directory (AD) | AD DS | Patch Management | Linux Administration| Backup & Recovery | Microsoft 365 | Entra ID | Intune |  
+
+#### ☁️ **Cloud Technologies**  
+| **Azure:** VNet | NSG | Resource Group | VMs & Containers |  
+| **AWS:** VPC | VMs & Containers |  
+
+#### 🧩 **Miscellaneous**  
+| Python | Hardware & Support – Apple, Android, & Windows PCs | WordPress | PHP | HTML & CSS | Video Editing – PowerDirector, Camtasia | Image Editing – Photoshop, Canva | AI – Learning & Exploring | GitHub |  
+
+---
+
+### 📚 **Passion for Learning & Sharing**  
+When I’m not immersed in technology, I enjoy **journaling** and **documenting** my findings, helping me clarify complex ideas and share my journey with others.  
+
+---
+
+Beyond tech, I love hiking 🥾 and exploring nature 🌲. Spending time with dogs 🐕‍🦺 brings me joy, and I find peace in appreciating the beauty of mountains 🏔️ and trees 🌳. These outdoor activities help me connect with the natural world and provide a much-needed balance to my tech-focused life.
 
 ---
 
