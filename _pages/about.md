@@ -25,7 +25,7 @@ redirect_from:
 <!-- End of whoami section with animation -->
 
 
-# 📚✍️📖|🎯Cybersecurity Enthusiast |🚶‍♂️ Tech Explorer |📝 Lifelong Learner |📚✍️📖
+# |🎯Cybersecurity Enthusiast |🚶‍♂️ Tech Explorer |📚Lifelong Learner |
 
 I’m a **cybersecurity enthusiast** constantly learning, dedicated, and a hard worker, exploring new areas of technology! 🌐 I’m diving deep into the world of **cybersecurity**, **networking**, **system administration**, **Linux**, **Python**, **cloud**, and **AI** – building and enhancing my skills every day. 🛠️ 
 
@@ -36,9 +36,9 @@ I’m a **cybersecurity enthusiast** constantly learning, dedicated, and a hard 
 
 ## 🎯 **Skills – Adding One More Thing Continuously**  
 
-### 🔐 **Cybersecurity** :- 
+### 🔐 **Cybersecurity** 
  Vulnerability Assessment | Threat Detection & Analysis | Network Architecture Security | Threat Intelligence & Hunting | Incident Response & Management | Security Awareness Training 
-
+ 🔐 **Cybersecurity** :  Vulnerability Assessment | Threat Detection & Analysis | Network Architecture Security | Threat Intelligence & Hunting | Incident Response & Management | Security Awareness Training
 
 ### ⚔️ **Cybersecurity Tools**  
  Nmap | Wireshark | Kibana | Sguil | Wazuh | SIEM | Splunk | Snort | Suricata | Greenbone | Nessus | SEToolKit | OSINT  
