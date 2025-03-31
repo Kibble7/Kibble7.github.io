@@ -25,7 +25,7 @@ redirect_from:
 <!-- End of whoami section with animation -->
 
 
-# |🎯Cybersecurity Enthusiast |🚶‍♂️ Tech Explorer |📚Lifelong Learner |
+## |🎯Cybersecurity Enthusiast |🚶‍♂️ Tech Explorer |📚Lifelong Learner |
 
 I’m a **cybersecurity enthusiast** constantly learning, dedicated, and a hard worker, exploring new areas of technology! 🌐 I’m diving deep into the world of **cybersecurity**, **networking**, **system administration**, **Linux**, **Python**, **cloud**, and **AI** – building and enhancing my skills every day. 🛠️ 
 
@@ -38,7 +38,6 @@ I’m a **cybersecurity enthusiast** constantly learning, dedicated, and a hard 
 
 ### 🔐 **Cybersecurity** 
  Vulnerability Assessment | Threat Detection & Analysis | Network Architecture Security | Threat Intelligence & Hunting | Incident Response & Management | Security Awareness Training 
- 🔐 **Cybersecurity** :  Vulnerability Assessment | Threat Detection & Analysis | Network Architecture Security | Threat Intelligence & Hunting | Incident Response & Management | Security Awareness Training
 
 ### ⚔️ **Cybersecurity Tools**  
  Nmap | Wireshark | Kibana | Sguil | Wazuh | SIEM | Splunk | Snort | Suricata | Greenbone | Nessus | SEToolKit | OSINT  
@@ -55,6 +54,22 @@ Active Directory (AD) | AD DS | Patch Management | Linux Administration| Backup 
 
 ### 🧩 **Miscellaneous**  
 | Python | Hardware & Support – Apple, Android, & Windows PCs | WordPress | PHP | HTML & CSS | Video Editing – PowerDirector, Camtasia | Image Editing – Photoshop, Canva | AI – Learning & Exploring | GitHub |  
+
+
+
+ **🔐Cybersecurity**:- Vulnerability Assessment | Threat Detection & Analysis | Network Architecture Security | Threat Intelligence & Hunting | Incident Response & Management | Security Awareness Training 
+
+ **⚔️Cybersecurity Tools**:- Nmap | Wireshark | Kibana | Sguil | Wazuh | SIEM | Splunk | Snort | Suricata | Greenbone | Nessus | SEToolKit | OSINT  
+
+ **🌐Networking**:- TCP/IP | VLAN | STP | EtherChannel | DNS | DHCP | NAT/PAT | OSPF | ACLs | IDS/IPS | VPN  
+
+**🖥️System Administration**:-Active Directory (AD) | AD DS | Patch Management | Linux Administration| Backup & Recovery | Microsoft 365 | Entra ID | Intune 
+
+**☁️Cloud Technologies**  
+- **Azure:** VNet | NSG | Resource Group | VMs & Containers |  
+- **AWS:**  VPC | VMs & Containers  
+
+**🧩Miscellaneous**:- Python | Hardware & Support – Apple, Android, & Windows PCs | WordPress | PHP | HTML & CSS | Video Editing – PowerDirector, Camtasia | Image Editing – Photoshop, Canva | AI – Learning & Exploring | GitHub   
 
 ---
 
