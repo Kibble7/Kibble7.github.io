@@ -14,7 +14,7 @@ redirect_from:
 
 <!--Quote-->
 <div style="color: #1877F2; font-size: 24px; font-family: Arial, sans-serif;">
-    Here is only one corner of the universe you can be certain of improving, and that's your own self. – "Aldous Huxley"
+   <p> Here is only one corner of the universe you can be certain of improving, and that's your own self. – "Aldous Huxley" </P>
 </div>
 
 
