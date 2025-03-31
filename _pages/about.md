@@ -36,7 +36,7 @@ I’m a **cybersecurity enthusiast** constantly learning, dedicated, and a hard 
 
 ## 🎯 **Skills – Adding One More Thing Continuously**  
 
-### 🔐 **Cybersecurity** :- | Vulnerability Assessment | Threat Detection & Analysis | Network Architecture Security | Threat Intelligence & Hunting | Incident Response & Management | Security Awareness Training |
+ 🔐 **Cybersecurity** :- | Vulnerability Assessment | Threat Detection & Analysis | Network Architecture Security | Threat Intelligence & Hunting | Incident Response & Management | Security Awareness Training |
 
 ### ⚔️ **Cybersecurity Tools**  
 | Nmap | Wireshark | Kibana | Sguil | Wazuh | SIEM | Splunk | Snort | Suricata | Greenbone | Nessus | SEToolKit | OSINT |  
