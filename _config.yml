@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Gulshan Rawat's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Gulshan Rawat"
 description              : &description "personal description"
 url                      : https://Kibble7.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "gulshan-singh-rawat-b07748aa"
+  linkedin         : "/in/gulshan-singh-rawat/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
