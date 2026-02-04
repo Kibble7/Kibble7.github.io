@@ -87,3 +87,7 @@ I am building blogs and resources to help individuals and people better understa
 
 **Coming soon!**  
 Stay tuned for the latest updates and technology related blog!
+
+
+**How  to  pass Azure 900**
+
