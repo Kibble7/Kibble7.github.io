@@ -13,6 +13,11 @@ redirect_from:
     <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kibble7.Kibble7"/>
 </div>
 
+
+<!-- _pages folder -->
+<!-- visitor badge -->
+
+
 <!-- _pages folder -->
 <style>
 .gr-row{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:14px 0}
