@@ -124,4 +124,4 @@ Beyond tech, I love hiking 🥾 and exploring nature 🌲. Spending time with do
 
 ## 📫 Let’s Connect
 
-<a class="gr-btn" href="https://www.linkedin.com/in/gulshan-singh-rawat-b077482aa/">LinkedIn</a><a class="gr-btn dark" href="https://github.com/Kibble7">GitHub</a>
+<a class="gr-btn" href="https://www.linkedin.com/in/gulshan-singh-rawat/">LinkedIn</a><a class="gr-btn dark" href="https://github.com/Kibble7">GitHub</a>
