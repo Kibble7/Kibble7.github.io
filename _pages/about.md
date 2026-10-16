@@ -88,11 +88,15 @@ redirect_from:
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+who+am+i🐕‍🦺!+;+I'm+Gulshan+Rawat!;" />
 </h1>
+<div style="text-align:center;margin:18px auto;max-width:720px;border-left:4px solid #1877F2;padding:6px 18px;background:rgba(24,119,242,.06);border-radius:0 8px 8px 0">
+  <p style="margin:0;font-size:1.15em;font-style:italic;color:#1877F2">“There is only one corner of the universe you can be certain of improving, and that’s your own self.”</p>
+  <p style="margin:6px 0 0;font-weight:600;opacity:.75">– Aldous Huxley</p>
+</div>
 <div class="gr-row"><span class="gr-pill" style="--c:#e5484d">🎯 Cybersecurity Enthusiast</span><span class="gr-pill" style="--c:#30a46c">🚶‍♂️ Tech Explorer</span><span class="gr-pill" style="--c:#8e4ec6">📚 Lifelong Learner</span></div>
 
 I’m a **cybersecurity enthusiast** who loves **helping others in technology**. I’m constantly learning, dedicated, and a hard worker, exploring new areas of tech! 🌐 I’m diving deep into **cybersecurity**, **networking**, **system administration**, **endpoint management**, **Linux**, **PowerShell**, **Python**, **Docker**, **cloud**, and **AI** – building and improving my skills every day. 🛠️
 
-<div class="gr-row"><span class="gr-pill" style="--c:#0091ff">🤝 Helping others in technology</span><span class="gr-pill" style="--c:#d6409f">📱 Endpoint Management: Intune &amp; Jamf</span><span class="gr-pill" style="--c:#12a594">⚙️ Automation: PowerShell &amp; Python</span></div>
+<div class="gr-row"><span class="gr-pill" style="--c:#0091ff">🤝 Helping others in technology</span><span class="gr-pill" style="--c:#d6409f">✍️ Technology writing and knowledge sharing</span><span class="gr-pill" style="--c:#8e4ec6">🖥️ Continuous learning and exploring new technologies</span><span class="gr-pill" style="--c:#12a594">🌳 Nature and outdoor exploration</span></div>
 
 > As **Steve Jobs** wisely said:  
 > *“Learn continually—there’s always ‘one more thing’ to learn!”*
